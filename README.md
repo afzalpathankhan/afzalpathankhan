@@ -1,4 +1,4 @@
-fzal Khan's GitHub Profile README
+
 About
 Hi, I'm Afzal Khan, a student and tech savvy. I'm passionate about learning new technologies and building cool projects. I'm also a big fan of open source software and I believe in the power of collaboration.
 
