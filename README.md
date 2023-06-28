@@ -1,8 +1,8 @@
 
-About
+About- 
 Hi, I'm Afzal Khan, a student and tech savvy. I'm passionate about learning new technologies and building cool projects. I'm also a big fan of open source software and I believe in the power of collaboration.
 
-Projects
+Projects- 
 I have a few projects that I'm working on right now, including:
 
 A web application that helps students learn about different programming languages
